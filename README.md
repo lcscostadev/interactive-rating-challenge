@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lcscostadev/frontendmentor-challenges/tree/main/Newbie/Interactive%20rating%20component/interactive%20rating)
-- Live Site URL: [Add live site URL here](https://lcscostadev.github.io/frontendmentor-challenges/Newbie/interactive-rating/)
+- Solution URL: [Add solution URL here](https://github.com/lcscostadev/interactive-rating-challenge)
+- Live Site URL: [Add live site URL here](https://lcscostadev.github.io/interactive-rating-challenge/)
 
 ## My process
 I've started with the css first to make closest possible to the original screenshot's then re built some things like changing the section to a form and make the buttons dinamically, then just finished using the ternary operator to make the swap for the thank page.
@@ -60,5 +60,5 @@ Maybe in the future i'll make a hover slide transition when the user hovers thro
 ## Author
 
 - Website - [lcscostadev](https://lcscostadev.github.io/lucas-costa-portfolio/)
-- Frontend Mentor - [@lcscostadev](hhttps://www.frontendmentor.io/profile/lcscostadev)
+- Frontend Mentor - [@lcscostadev](https://www.frontendmentor.io/profile/lcscostadev)
 - Twitter - [@lcscostadev](https://www.twitter.com/lcscostadev)
